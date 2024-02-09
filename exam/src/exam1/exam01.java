@@ -7,4 +7,9 @@ public class exam01 {
 		this.cabbages=cabbages;
 	}
 
+	int get_moves() 
+	{
+		return moves;
+		
+	}
 }
